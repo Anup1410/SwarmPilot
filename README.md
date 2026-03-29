@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="docs/SwarmPilot.jpeg" alt="SwarmPilot" width="280"/>
+  <img src="docs/SwarmPilot.jpeg" alt="SwarmPilot — ArduPilot Drone Swarm Ground Control Station" width="280"/>
 </p>
 
 <h1 align="center">SwarmPilot™</h1>
 
 <p align="center">
-  Multi-UAV Ground Control Station for ArduCopter
+  Multi-UAV Ground Control Station for ArduPilot / ArduCopter Drone Swarms
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ---
 
-SwarmPilot™ is a multi-drone ground control station that lets you command up to 4 ArduCopter drones in synchronized formations. It handles real-time telemetry, automated formation flying, collision monitoring, and geofencing from a single workstation.
+SwarmPilot™ is a multi-drone swarm ground control station (GCS) built for ArduPilot / ArduCopter. It lets you command up to 4 UAVs in synchronized formations with real-time telemetry, automated formation flying, collision avoidance monitoring, and geofencing — all from a single workstation.
 
-Communication runs over MAVLink 2.0 through Serial/USB or UDP connections. The swarm operates on a leader–follower architecture where one drone holds position in LOITER while the rest follow in GUIDED mode.
+Designed for ArduPilot-based drone swarms, SwarmPilot communicates over MAVLink 2.0 through Serial/USB or UDP connections. The swarm operates on a leader–follower architecture where one drone holds position in LOITER while the rest follow in GUIDED mode. Compatible with Pixhawk, Cube, and any MAVLink-capable flight controller running ArduCopter firmware.
 
 |  |  |
 |--|--|
@@ -606,3 +606,7 @@ Unauthorized redistribution, modification, or reverse engineering is prohibited.
 <p align="center">
   Made in India 🇮🇳
 </p>
+
+---
+
+<sub>Keywords: ardupilot swarm, arducopter swarm, drone swarm software, multi-drone ground control station, mavlink swarm, pixhawk swarm, drone formation flying software, open drone swarm GCS, UAV swarm control, ArduPilot multi-drone, quadcopter swarm controller, drone fleet management, swarm robotics UAV, ardupilot ground control station</sub>
